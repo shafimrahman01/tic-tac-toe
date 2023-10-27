@@ -1,2 +1,2 @@
-# tic-tac-toe
-Tic tac game code. Play online.
+# Let's play!
+Play this game online.
